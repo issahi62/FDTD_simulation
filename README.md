@@ -8,3 +8,10 @@ SLIT_1_2_3
 
 # comment 
 please don't forget to star if you like it
+
+
+
+Name         | Output                                                                                                  |
+------------ |:-------------------------------------------------------------------------------------------------------:|
+Diffraction  |![youngs]()                 |
+                     
