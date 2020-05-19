@@ -13,5 +13,7 @@ please don't forget to star if you like it
 
 Name         | Output                                                                                                  |
 ------------ |:-------------------------------------------------------------------------------------------------------:|
-Diffraction  |![youngs]()                 |
+Diffraction  |![youngs]( https://github.com/issahi62/FDTD_simulation/blob/master/1slit_Fdtd_simulation.png)            |     |
+Diffraction2 |![youngs]( https://github.com/issahi62/FDTD_simulation/blob/master/2slit_Fdtd_simulation.png)            |                 |
                      
+                  
